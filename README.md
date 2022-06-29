@@ -2,7 +2,7 @@
 
 L’objectif de ce cours est d’apprendre à reconnaître, manipuler et résoudre une classe relativement large de problèmes convexes émergents dans des domaines comme, par exemple, l’apprentissage, la finance ou le traitement du signal.
 
-Thèmes abordés :
+## Thèmes abordés :
 
 Modélisation convexe 
 
